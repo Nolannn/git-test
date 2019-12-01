@@ -7,4 +7,7 @@ public class HelloWorld {
     public void Test(){
         System.out.println("test");
     }
+    public void Test2(){
+        System.out.println("clone and push");
+    }
 }
